@@ -19,3 +19,6 @@ This system tracks and predicts Ethiopia's digital financial transformation (201
 1. Clone the repository: `git clone <repo-url>`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the dashboard: `streamlit run dashboard/app.py`
+## 🖥️ How to Run the Dashboard
+1. Install dependencies: `pip install streamlit plotly`
+2. Launch: `streamlit run dashboard/app.py`
