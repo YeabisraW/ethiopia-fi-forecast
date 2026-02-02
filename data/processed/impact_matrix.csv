@@ -1,0 +1,5 @@
+Event,Target_Indicator,Impact_Magnitude_PP,Confidence_Score
+Telebirr Launch,USG_DIGITAL_PAYMENT,12.5,0.95
+Safaricom M-Pesa,ACC_MM_ACCOUNT,5.2,0.88
+Fayda ID Rollout,ACC_OWNERSHIP,4.8,0.75
+EthSwitch P2P,USG_DIGITAL_PAYMENT,7.5,0.82
